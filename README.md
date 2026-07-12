@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
