@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
