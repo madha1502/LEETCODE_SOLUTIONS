@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
+| [3110-score-of-a-string](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
