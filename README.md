@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [3110-score-of-a-string](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/3110-score-of-a-string) |
@@ -59,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
