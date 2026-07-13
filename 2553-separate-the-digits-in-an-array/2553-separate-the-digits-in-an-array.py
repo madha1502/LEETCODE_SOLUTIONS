@@ -3,6 +3,8 @@ class Solution:
         words = ""
         for i in li:
             words+=str(i)
-        chars = [char for word in words for char in word]
+        chars = []
+        for i in words:
+            chars.append(i)
         anss = list(map(int, chars))
         return anss
