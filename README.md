@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
