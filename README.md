@@ -76,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
