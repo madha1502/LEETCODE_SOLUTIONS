@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
