@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
