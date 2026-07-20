@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
