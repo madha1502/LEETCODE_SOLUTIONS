@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
