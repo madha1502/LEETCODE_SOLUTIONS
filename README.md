@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/madha1502/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
